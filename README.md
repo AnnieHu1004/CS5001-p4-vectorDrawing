@@ -2,10 +2,10 @@
 
 practical 4 for CS5001
 
-Features I have implemented
+## Features I have implemented
 =================================================================
 
-[Basic requirements]
+### [Basic requirements]
 ---------------------
 - Drawing straight lines, ellipses and diagonal crosses 
   by clicking corresponding button and pressing and releasing the mouse
@@ -13,7 +13,7 @@ Features I have implemented
 - Redo the shapes by clicking the REDO button
 - Drawing with different colors by choosing a color in the JColorChooser dialog
 
-[Advanced requirements]
+### [Advanced requirements]
 ---------------------
 
 - Pressing the Control key to lock ratio to draw squares, circles, equal triangles, equal hexagons and equal diagonal crosses
@@ -22,12 +22,10 @@ Features I have implemented
 - Loading and saving drawings in a format that permits them to be manipulated as vector drawings after loading.
 
 
-
-
-Explain clearly how to run my program and how to use all its features
+## Explain clearly how to run my program and how to use all its features
 =================================================================
 
-[how to run my program]
+### [how to run my program]
 ---------------------
 - Use IDEA to run the program
 
@@ -44,7 +42,7 @@ or
 - java -jar [directory]
 
 
-[how to use all its features]
+### [how to use all its features]
 ---------------------
 
 - By clicking different shape buttons, you can draw corresponding shapes on the canvas
